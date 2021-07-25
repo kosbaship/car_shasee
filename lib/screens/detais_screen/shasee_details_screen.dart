@@ -23,7 +23,7 @@ class ShaseeDetailsScreen extends StatelessWidget {
           children: [
             // if (rocket.flickrImages.isNotEmpty) _ImageHeader(rocket: rocket),
             SizedBox(
-              height: 250,
+              height: 350,
               child: Hero(
                 tag: 'hero-id-image',
                 child: Image.network(

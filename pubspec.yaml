@@ -18,6 +18,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   # Allows us to easily use custom fonts from Google Fonts.
   google_fonts: ^2.1.0
+  bloc: ^7.0.0
+  conditional_builder: ^1.0.2
+  fluttertoast: ^8.0.7
   
 dev_dependencies:
   flutter_test:
